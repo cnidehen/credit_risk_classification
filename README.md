@@ -1,8 +1,6 @@
 # credit_risk_classification
 Module 20 Challenge
 
-![image](https://github.com/cnidehen/credit_risk_classification/assets/128870405/46d77cde-510a-48de-92e1-06c532c69361)
-
 ![Uploading image.png…]()
 
 
