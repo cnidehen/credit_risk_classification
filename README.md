@@ -3,7 +3,6 @@ Module 20 Challenge
 
 
 
-![Uploading image.png…]()
 ![image](https://github.com/cnidehen/credit_risk_classification/assets/128870405/87bd8d9c-2c4a-4cd6-8496-649560873e34)
 
 # Background
