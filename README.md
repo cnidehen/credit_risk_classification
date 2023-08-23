@@ -4,7 +4,7 @@ Module 20 Challenge
 
 
 ![Uploading image.png…]()
-
+![image](https://github.com/cnidehen/credit_risk_classification/assets/128870405/87bd8d9c-2c4a-4cd6-8496-649560873e34)
 
 # Background
 In this Challenge, you’ll use various techniques to train and evaluate a model based on loan risk. You’ll use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
